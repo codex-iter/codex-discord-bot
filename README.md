@@ -1,6 +1,4 @@
-# codex-discord-bot  
-[![Gitter](https://badges.gitter.im/codex-discord-bot/community.svg)](https://gitter.im/codex-discord-bot/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
+# codex-discord-bot  &nbsp;&nbsp;&nbsp;[![Gitter](https://badges.gitter.im/codex-discord-bot/community.svg)](https://gitter.im/codex-discord-bot/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 CODEX bot for the CODEX Discord channel
 
 # MAINTAINERS
